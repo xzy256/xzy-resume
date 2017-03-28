@@ -170,10 +170,10 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-right: 60px;
     background-color: #e0eaf0;   
     position: relative;
-    padding: 10px;
+    padding-top: 45px;
+    padding-bottom: 45px;
     text-align: center;
 }
 
